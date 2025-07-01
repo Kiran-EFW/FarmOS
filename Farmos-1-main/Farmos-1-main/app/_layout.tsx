@@ -45,7 +45,7 @@ export default function RootLayout() {
           right: 20px;
           z-index: 1000;
           border-radius: 50%;
-          box-shadow: 0 4px 20px rgba(22, 163, 74, 0.3);
+          box-shadow: 0 4px 20px rgba(255, 255, 255, 0);
           transition: all 0.3s ease;
         `;
         
